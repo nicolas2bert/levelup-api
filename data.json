@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nicolas2bert"
+    },
+    {
+      "id": 2,
+      "name": "Barbie"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "content": "Hello, my name is Nicolas",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "content": "Hey, mind is Barbie",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "content": "How are u Nico?",
+      "userId": 2
+    },
+    {
+      "id": 4,
+      "content": "Hope everything s ok for you Nicolas",
+      "userId": 2
+    },
+    {
+      "id": 5,
+      "content": "I m fine Barbie thanks",
+      "userId": 1
+    },
+    {
+      "id": 6,
+      "content": "See you soon Nico",
+      "userId": 2
+    }
+  ]
+}
