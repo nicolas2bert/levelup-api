@@ -20,6 +20,6 @@
   "scripts": {
     "build": "babel lib -d build",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm run build && node --prof build/server.js"
+    "start": "npm run build && NODE_ENV=production node --prof build/server.js"
   }
 }
